@@ -1,6 +1,6 @@
 # Power-BI:  Data Visualization and Story telling
 
-A. COVID-19 NIGERIA
+A. COVID-19 NIGERIA: 
 Due to health concerns for their staff, the top managemenet of a company which has branches spread in several states in Nigeria 
 is looking for real time information on COVID 19 that will inform them on the best business strategies to consider in a bid to minimize loss.
 To achieve this, real time data was obtained from http://covid19.ncdc.gov.ng/ and loaded into Power BI. 
